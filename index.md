@@ -1,6 +1,6 @@
 # STG996's official website
 
-### The-Moving-Block
+[The Moving Block](https://stg996.github.io/The-Moving-Block) | [github-slideshow](https://www.github.com/STG996/github-slideshow)
 
 # Hello, and welcome!!!
  This is the *official* website for me, the GitHub developer [STG996](https://www.github.com/STG996)!
